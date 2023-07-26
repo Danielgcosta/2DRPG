@@ -44,6 +44,9 @@ TagManager:
   - name: Signs
     uniqueID: 130751777
     locked: 0
+  - name: Monster
+    uniqueID: 3820210529
+    locked: 0
   - name: Player
     uniqueID: 1373465561
     locked: 0
